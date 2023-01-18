@@ -20,5 +20,5 @@ Technical Director: [Zheyuan Wei](https://github.com/JANERUBBISHTOEAT)
 
 This repository mainly contains two parts:
 
-- The `CARD` folder contains the scripts to generate the personal info cards for the mentees and mentors
+- The `CARD` folder contains the scripts to generate the profile cards for the mentees and mentors
 - The `EMAIL` folder contains the scripts to create the email for the mentees and mentors with the personal info cards and some other information
