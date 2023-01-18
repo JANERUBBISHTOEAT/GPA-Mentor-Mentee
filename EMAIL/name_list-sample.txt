@@ -1,0 +1,5 @@
+Mentee_Name	Mentors_Name (Maybe more than one mentee for one mentor)
+Mentee_1	Mentor_1#Mentor_2#Mentor_3
+Mentee_2	Mentor_4#Mentor_5
+Mentee_3	Mentor_6#Mentor_1 (Notice here that Mentor_1 is assigned to the second mentee as well)
+...

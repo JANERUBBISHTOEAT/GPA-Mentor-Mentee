@@ -1,0 +1,25 @@
+-----------------------------------
+Sending Failed in: sample_mail_1@163.com|???
+Sending Failed in: sample_mail_2@126.com|???
+Sending Failed in: sample_mail_3@gmail.com|???
+Sending Failed in: sample_mail_4@qq.com|???
+...
+
+-----------------------------------
+    Total: 272
+    Ignored:0
+    Succeeded: 245
+    Failed: 27
+-----------------------------------
+-----------------------------------
+    Total: 272
+    Ignored:245
+    Succeeded: 27
+    Failed: 0
+-----------------------------------
+-----------------------------------
+    Total: 9
+    Ignored:0
+    Succeeded: 9
+    Failed: 0
+-----------------------------------

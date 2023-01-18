@@ -1,0 +1,5 @@
+#Secret#Admin
+#sample_wxid_1#sample_name_1
+#sample_wxid_2#sample_name_2
+#sample_wxid_3#sample_name_3
+...

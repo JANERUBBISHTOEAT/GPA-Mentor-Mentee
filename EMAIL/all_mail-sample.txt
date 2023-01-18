@@ -1,0 +1,4 @@
+#hello@utscgpa.org#Admin
+#sample_mail_1@mail.utoronto.ca#sample_name_1
+#sample_mail_2@mail.utoronto.ca#sample_name_2
+...

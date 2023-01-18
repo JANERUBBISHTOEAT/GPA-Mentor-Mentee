@@ -1,0 +1,1 @@
+This folder (res) includes the personal info-card for both Mentees and Mentors.
