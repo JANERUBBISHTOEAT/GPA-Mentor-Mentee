@@ -11,7 +11,7 @@ Technical Director: [Zheyuan Wei](https://github.com/JANERUBBISHTOEAT)
 
 *The repository will be updated in the future to make it more general.*
 
-*Zheyuan*
+*Zheyuan，*
 *Jan 2023*
 
 ---
