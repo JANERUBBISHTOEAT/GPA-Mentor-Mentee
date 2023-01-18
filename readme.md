@@ -1,6 +1,6 @@
-# GPA Mentee & Mentor Program
+# GPA Mentor & Mentee Program
 
-Program Period: May 2022
+Program Period: May 2022  
 Technical Director: [Zheyuan Wei](https://github.com/JANERUBBISHTOEAT)
 
 *This repository is been modified when uploading, for it contains personal information of the mentees and mentors. The information has been removed after the program is over.*
